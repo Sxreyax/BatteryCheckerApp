@@ -1,4 +1,5 @@
 # BatteryCheckerApp
 This is a bettery checker app.
-"D:\gpt 5th sem\MAD\assignments\screenshots\screenshot1.png"
-"D:\gpt 5th sem\MAD\assignments\screenshots\screenshot2.png"
+
+![Screenshot1](screenshot1.png)
+![Screenshot2](screenshot2.png)
