@@ -22,6 +22,8 @@ public class MainActivity extends AppCompatActivity {
         super.onResume();
         registerReceiver(mBatteryReceiver, mIntentFilter);
     }
+    
+    .
 
     @Override
     protected void onPause() {
