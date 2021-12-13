@@ -42,6 +42,7 @@ public class BatteryReceiver extends BroadcastReceiver {
                     message = "Unknown";
                     break;
             }
+            ..
             statusLabel.setText(message);
 
 
